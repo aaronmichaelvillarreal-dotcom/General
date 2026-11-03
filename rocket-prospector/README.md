@@ -18,6 +18,27 @@ You play a prospector with a copper jetpack, flying through an endless mine shaf
   - **Gravity Rig**: tap to flip between the floor and the ceiling. It soaks up one hit.
 - The shaft speeds up the further you go. A red flag marks your best distance.
 
+## Flyers and worlds
+
+On the title screen or the game-over screen, tap **Flyer & world → Change** to choose who flies and where. The scene behind the menu updates as you pick.
+
+Flyers (looks only, every flyer plays the same):
+- **Dusty**: a prospector with a headlamp.
+- **Rosa**: a pipe welder with goggles and a ponytail.
+- **Bolt**: a robot with a searchlight eye.
+- **Whiskers**: a cat pilot in a scarf.
+- **Astra**: an astronaut.
+
+Worlds:
+- **Crystal Mine**: timber supports, lanterns and glowing crystals.
+- **Lava Forge**: iron catwalks over molten rock, with rising embers.
+- **Frozen Cavern**: icicles, snow and an aurora.
+- **Sunset Canyon**: an outdoor desert with mesas, cacti and telegraph wires.
+- **Sunken Reef**: underwater, with kelp, coral, fish and bubbles.
+- **Surprise me**: a random world each flight.
+
+Everything is free to pick and your choice is remembered.
+
 ## Outfitter
 
 - Jetpack exhaust styles: Frostfire, Swamp Gas, Prism Plume and Gold Rush.
